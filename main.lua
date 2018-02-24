@@ -63,7 +63,6 @@ for i, v in pairs(dataset) do       --dataset
 				predFile:close()
 
 				collectgarbage()
-
             end
         end
 end
